@@ -1,0 +1,3 @@
+{
+  spongezone = ./SpongeZoneInc.png;
+}
